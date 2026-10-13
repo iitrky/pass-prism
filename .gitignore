@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+results_quick/
+models_quick/
+.ipynb_checkpoints/
+.DS_Store
+.venv/

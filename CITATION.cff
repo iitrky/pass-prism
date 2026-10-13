@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "PRISM: Pinching-Antenna Roaming Simulator"
+version: 1.0.0
+date-released: 2026-10-05
+license: MIT
+repository-code: "https://github.com/iitrky/pass-prism"
+authors:
+  - family-names: "Arul Dalton"
+    given-names: "G."
+    affiliation: "Saveetha Engineering College, Chennai, India"
+    orcid: "https://orcid.org/0000-0002-5981-7176"
+preferred-citation:
+  type: article
+  title: "Predictive Coverage Placement of Pinching Antennas with Finite Movement Speed in Multiuser Mobile Indoor Networks"
+  authors:
+    - family-names: "Arul Dalton"
+      given-names: "G."
+  journal: "IEEE Transactions on Vehicular Technology"
+  year: 2026
